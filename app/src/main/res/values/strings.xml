@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="users_name">Nama User</string>
+    <string name="description">Descripsi user</string>
+    <string name="search" />
+    <string name="search_hint">Masukkan kata</string>
+    <string name="menu_1">menu1</string>
+    <string name="menu_2">menu 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_home">Tes Follower</string>
+    <string name="content_tab_profile">tes following</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="detail">Detail dari username</string>
+    <string name="tab_text_0">Detail</string>
+    <string name="name_user">Nama</string>
+    <string name="Company">Company</string>
+    <string name="Location">Location</string>
+    <string name="followers">Followers</string>
+    <string name="Jumlah_followers">0</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="company2">Company :</string>
+    <string name="location2">Location :</string>
+    <string name="follow">Follow ?</string>
+    <string name="delete_favorite">Favorite Dihapus</string>
+    <string name="username">Username</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="reminder_setting">reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="reminder">Daily Reminder</string>
+    <string name="key_reminder">key_reminder</string>
+    <string name="alaram">alaram</string>
+    <string name="key_alarm">Alarm</string>
+    <string name="alarm">alarm</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="id">ID :</string>
+    <string name="todo">tes</string>
+</resources>
